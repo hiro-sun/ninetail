@@ -1,0 +1,29 @@
+{
+  "name": "ninetail",
+  "displayName": "ninetail",
+  "description": "Game development library for HTML5",
+  "version": "0.0.1",
+  "publisher": "hiro-sun",
+  "author": "hiro-sun",
+  "license": "LGPL-3.0",
+  "homepage": "https://github.com/hiro-sun/ninetail",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiro-sun/ninetail.git"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-tsc": "^1.1.4",
+    "gulp-typescript": "^2.11.0",
+    "gulp-uglify": "^1.5.2",
+    "merge2": "^1.0.1",
+    "tsify": "^0.13.2",
+    "typescript": "^1.6.2",
+    "typings": "^0.6.8",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
